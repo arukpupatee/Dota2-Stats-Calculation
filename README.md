@@ -2,9 +2,15 @@
 
 ## Setup
 
-1. Get API tokens from https://stratz.com/api
-2. Duplicate .env.example file and rename to .env
-3. Replace EXAMPLE_API_TOKEN to your API tokens from 1.
+1. Install dependencies
+
+   ```
+   yarn install
+   ```
+
+2. Get API tokens from https://stratz.com/api
+3. Duplicate .env.example file and rename to .env
+4. Replace EXAMPLE_API_TOKEN to your API tokens from 2.
 
 ## Run
 
